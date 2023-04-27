@@ -9,33 +9,33 @@ In this project we will be analyzing Covid-19 underlying conditions and risk fac
 ## **Cleaning the Data with Python**
 
 Importing the csv in Jupyter Notebooks  
-![Importing csv file](C:\Users\Justin Schwerdt\Documents\Data_Analytics_Projects\Archive\Covid_Deaths\Code Images\Importing_Csv.png)
+![Importing csv file](Code Images\Importing_Csv.png)
 
 Removing rows we won't be using  
-![Remove Rows](/Code Images/Removing_Rows.png)
+![Remove Rows](Code Images\Removing_Rows.png)
 
 Dealing with null values  
-![Null Values](/Code Images/Null_Values.png)
+![Null Values](Code Images\Null_Values.png)
 
 Standardizing Data Types  
-![Data Types](/Code Images/Data_Types.png)
+![Data Types](Code Images\Data_Types.png)
 
 ## **Analyzing the Data with Python**
 
 Getting a sum of deaths per condition group  
-![Sum per Group](/Code Images/Sum_Per_Group.png)
+![Sum per Group](Code Images\Sum_Per_Group.png)
 
 Creating a sum percentage of deaths per condition group  
-![Percent per Group](/Code Images/Percent_Per_Group.png)
+![Percent per Group](Code Images\Percent_Per_Group.png)
 
 Looking at respiratory because it is our leading condition catagory for deaths  
-![Sum per Respiratory diseases](/Code Images/Sum_Respiratory.png)
+![Sum per Respiratory diseases](Code Images\Sum_Respiratory.png)
 
 Breaking respiratory by percent to easily identify leading causes  
-![Percent per Respiratory diseases](/Code Images/Percent_Respiratory.png)
+![Percent per Respiratory diseases](Code Images\Percent_Respiratory.png)
 
 Taking a look at what age groups are at risk by percent of total  
-![Age Group Risks](/Code Images/Age_Group.png)
+![Age Group Risks](Code Images\Age_Group.png)
 
 ## **Visualizing the Data with Power BI**
 
