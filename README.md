@@ -9,7 +9,7 @@ In this project we will be analyzing Covid-19 underlying conditions and risk fac
 ## **Cleaning the Data with Python**
 
 Importing the csv in Jupyter Notebooks  
-![Importing csv file](Code Images\Importing_Csv.png)
+![Importing csv file](/Code Images/Importing_Csv.png)
 
 Removing rows we won't be using  
 ![Remove Rows](Code Images\Removing_Rows.png)
